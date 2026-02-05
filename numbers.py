@@ -1,0 +1,25 @@
+print(3)
+print(358)
+print(50000)
+
+print(3 + 3)
+print(2 * 5)
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+print(type(x))
+print(type(y))
+print(type(z))
+
+
+x = 1
+y = 35656222554887711
+z = -3255522
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+#mix text and numbers
+print("I am", 35, "years old.")
